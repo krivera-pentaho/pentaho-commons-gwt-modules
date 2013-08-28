@@ -2599,6 +2599,10 @@
   background: rgba(255, 255, 255, 0.5);
   background: -webkit-gradient(linear, left top, left bottom, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0.35)));
 }
+.bootstrap .IE8 .well {
+  background-color: transparent;
+  background: url('../../../images/wt_transparent.png') repeat;
+}
 .bootstrap .well blockquote {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, 0.15);
