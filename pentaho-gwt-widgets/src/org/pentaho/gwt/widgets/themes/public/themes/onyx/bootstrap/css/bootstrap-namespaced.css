@@ -3447,9 +3447,7 @@ padding-left: 20px;
 
 
 .bootstrap #launch-widget-row .nav-tabs > li > a:hover,
-.bootstrap #launch-widget-row .nav-tabs > li > a:focus,
-.bootstrap #getting-started .nav-tabs > li > a:hover,
-.bootstrap #getting-started .nav-tabs > li > a:focus {
+.bootstrap #getting-started .nav-tabs > li > a:hover {
   border-top: 0px solid transparent;
   border-bottom: 1px solid #ddd;
   border-left: 0px solid #ddd;
